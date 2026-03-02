@@ -1,0 +1,21 @@
+{
+    "version": "4.2.0.20725", 
+    "version_mapping": {
+        "base_part0_default": "base_part0_4.2.0.20725", 
+        "base_part1_default": "base_part1_4.2.0.20725", 
+        "base_part2_default": "base_part2_4.2.0.20725", 
+        "map_formallivik_default": "map_formallivik_4.2.0.20725", 
+        "map_memleaktest_default": "map_memleaktest_4.2.0.20725", 
+        "map_notbasic_default": "map_notbasic_4.2.0.20725", 
+        "map_notbasicin_default": "map_notbasicin_4.2.0.20725", 
+        "map_noviceguidance_default": "map_noviceguidance_4.2.0.20725", 
+        "map_tdmbase_default": "map_tdmbase_4.2.0.20725", 
+        "map_wargame_default": "map_wargame_4.2.0.20725", 
+        "map_znq6th_default": "map_znq6th_4.2.0.20725", 
+        "res_avatarko_default": "res_avatarko_4.2.0.20725", 
+        "res_basetexld_default": "res_basetexld_4.2.0.20725", 
+        "res_basetexmd_default": "res_basetexmd_4.2.0.20725", 
+        "res_es2shader_default": "res_es2shader_4.2.0.20725", 
+        "res_es3shader_default": "res_es3shader_4.2.0.20725"
+    }
+}
